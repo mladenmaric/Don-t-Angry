@@ -8,3 +8,13 @@ D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.csproj.GenerateResource.C
 D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.exe
 D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.pdb
 D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.GameForm.resources
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\bin\Debug\DontAngry.exe.config
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.exe
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.pdb
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\bin\Debug\DontAngry.exe
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\bin\Debug\DontAngry.pdb
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.GameForm.resources
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.SetupForm.resources
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.Properties.Resources.resources
+C:\Users\Win7\Documents\GitHub\Don-t-Angry\DontAngry\obj\Debug\DontAngry.csproj.GenerateResource.Cache
