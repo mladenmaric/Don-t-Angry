@@ -1,0 +1,10 @@
+D:\VS_PROJECTS\DontAngry\DontAngry\bin\Debug\DontAngry.exe.config
+D:\VS_PROJECTS\DontAngry\DontAngry\bin\Debug\DontAngry.exe
+D:\VS_PROJECTS\DontAngry\DontAngry\bin\Debug\DontAngry.pdb
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.csprojResolveAssemblyReference.cache
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.SetupForm.resources
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.Properties.Resources.resources
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.csproj.GenerateResource.Cache
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.exe
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.pdb
+D:\VS_PROJECTS\DontAngry\DontAngry\obj\Debug\DontAngry.GameForm.resources
